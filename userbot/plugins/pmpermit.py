@@ -10,7 +10,7 @@ PREV_REPLY_MESSAGE = {}
 
 
 USER_BOT_WARN_ZERO = "I am currently offline. Please **DON'T SPAM** with me.Otherwise gaand mara dunga "
-USER_BOT_NO_WARN = "`[~~~~~~~~XHACKERKUNAL~~~~~~~~]\n\nHello, I will answer to your message soon .\n\nPlease wait for my response and Please **DON'T SPAM** with me.\n\nTag me in @JOINEONARMY FOR GET FAST RESPONSE. `"
+USER_BOT_NO_WARN = "`[~~~~~~~~PROTECTION~~~~~~~~]\n\nHello, I will answer to your message soon.\n\nPlease wait for my response and Please **DON'T SPAM** with me.\n\nIf you want your Userbot like this in free so DM @xhackerkunal. `"
 
 if Var.PRIVATE_GROUP_ID is not None:
     @command(pattern="^.approve ?(.*)")
