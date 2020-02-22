@@ -36,13 +36,11 @@
     },
     "PRIVATE_GROUP_ID": {
       "description": "Make Private Group and add @xhackerkunal in group to get Group I'd.",
-      "value": "",
-      "required": True
+      "value": ""
     },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "Make Private Group and add @xhackerkunal in group to get Group I'd.",
-      "value": "",
-      "required": True
+      "value": ""
     },
     "GITHUB_ACCESS_TOKEN": {
       "description": "Your Github Access Token for gitcommit plugin.Google 'Github access token' to find.",
